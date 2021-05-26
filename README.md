@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhatshaqran
 - - 💞️ I’m happily married to @reactjs
 - 👀 I’m interested in learning everything I can!
-- 🌱 Languages/Frameworks I am comfortable with: React,Next, Gatsby, Js, PHP, AWS, Node, Express, MongoDB
+- 🌱 Languages/Frameworks I am comfortable with: React,Next, Gatsby, Js, PHP, AWS, Node, Express, Graphql, MongoDB
 - 📫 Reach me at : whatsapp: +919149659818
 
 <!---
