@@ -7,7 +7,7 @@
 <!-- [![Shaqran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatshakran&theme=radical)](https://github.com/bhatshakran/github-readme-stats) -->
 
 ![Shaqran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatshakran&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatshakran)](https://github.com/bhatshakran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatshakran&layout=compact)](https://github.com/bhatshakran/github-readme-stats)
 
 
 
