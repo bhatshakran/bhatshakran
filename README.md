@@ -4,9 +4,11 @@
 - 🌱  I am comfortable with MERNG Stack, AWS, PHP and Python.
 - 📫 Reach me at : bhatshakran@gmail.com
 
-[![Shaqran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatshakran&theme=radical)](https://github.com/bhatshakran/github-readme-stats)
+<!-- [![Shaqran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatshakran&theme=radical)](https://github.com/bhatshakran/github-readme-stats) -->
 
-![Shaqran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatshakran&count_private=true)
+![Shaqran's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhatshakran&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatshakran)](https://github.com/bhatshakran/github-readme-stats)
+
 
 
 
