@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bhatshaqran
-- 💞️ I’m happily married to @reactjs
 - 👀 I’m interested particularly in Front End Development
 - 🌱  I am comfortable with MERNG Stack, AWS, PHP and Python.
 - 📫 Reach me at : bhatshakran@gmail.com
